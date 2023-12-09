@@ -1,0 +1,7 @@
+import teste as tst 
+
+lista= []
+um = input("Digite 1 para adicionar 1: ")
+if um == "1":
+    lista.append("1")
+print(lista)
