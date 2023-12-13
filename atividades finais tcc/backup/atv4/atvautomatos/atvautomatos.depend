@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1701615651 source:c:\users\rafae\documents\codeblocks\atv4\atvautomatos\main.c
-	<stdio.h>
-	<stdlib.h>
-	<string.h>
-
